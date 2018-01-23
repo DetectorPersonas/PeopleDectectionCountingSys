@@ -27,4 +27,4 @@ https://livejaverianaedu-my.sharepoint.com/personal/n-rodriguezm_javeriana_edu_c
 
 The packages are distributed in this way:
 - Installation pre-requisites: Libraries and packages to properly execute the algorithms and codes.
-- Deteccion_Conteo_Personas_Escenas_PUJ-1703 : Souce code of the final program
+- Deteccion_Conteo_Personas_Escenas_PUJ-1703 : Souce code of the final program (Downloadable link)
