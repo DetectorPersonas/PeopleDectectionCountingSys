@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:/Deteccion_Conteo_Personas_Escenas_PUJ-1703/Recursos/ModelosClasificacion/ModelosEntrenados//ANN/MIT/ANN"
+all_model_checkpoint_paths: "C:/Deteccion_Conteo_Personas_Escenas_PUJ-1703/Recursos/ModelosClasificacion/ModelosEntrenados//ANN/MIT/ANN"
