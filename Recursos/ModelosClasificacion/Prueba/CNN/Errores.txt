@@ -1,0 +1,13 @@
+Predicciones correctas:100
+Total predicciones:100
+Accuracy: 1.0
+Positivos verdaderos:50
+Falsos negativos:0
+Falsos positivos:0
+Negativos verdaderos:50
+             precision    recall  f1-score   support
+
+    persona       1.00      1.00      1.00        50
+ no persona       1.00      1.00      1.00        50
+
+avg / total       1.00      1.00      1.00       100

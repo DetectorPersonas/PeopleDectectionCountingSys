@@ -1,0 +1,15 @@
+﻿Compilación iniciada a las 2/11/2017 11:27:18 p. m..
+     1>Proyecto "C:\Deteccion_Conteo_Personas_Escenas_PUJ-1703\Recursos\TecnicasBarrido\BarridoBordes\BarridoBordes.vcxproj" en el nodo 2 (Build destinos).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt BarridoBordes.cpp
+         BarridoBordes.cpp
+     1>c:\deteccion_conteo_personas_escenas_puj-1703\recursos\tecnicasbarrido\barridobordes\barridobordes.cpp(26): warning C4129: 'B' : secuencia de escape de carácter no reconocida
+     1>c:\deteccion_conteo_personas_escenas_puj-1703\recursos\tecnicasbarrido\barridobordes\barridobordes.cpp(87): warning C4244: 'inicializando' : conversión de 'double' a 'int'; posible pérdida de datos
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Deteccion_Conteo_Personas_Escenas_PUJ-1703\Recursos\TecnicasBarrido\BarridoBordes\Debug\BarridoBordes.exe" /INCREMENTAL /NOLOGO opencv_superres300d.lib opencv_surface_matching300d.lib opencv_text300d.lib opencv_tracking300d.lib opencv_ts300d.lib opencv_video300d.lib opencv_videoio300d.lib opencv_videostab300d.lib opencv_xfeatures2d300d.lib opencv_ximgproc300d.lib opencv_xobjdetect300d.lib opencv_bgsegm300d.lib opencv_bioinspired300d.lib opencv_calib3d300d.lib opencv_ccalib300d.lib opencv_core300d.lib opencv_datasets300d.lib opencv_face300d.lib opencv_features2d300d.lib opencv_flann300d.lib opencv_hal300d.lib opencv_highgui300d.lib opencv_imgcodecs300d.lib opencv_imgproc300d.lib opencv_latentsvm300d.lib opencv_line_descriptor300d.lib opencv_ml300d.lib opencv_objdetect300d.lib opencv_optflow300d.lib opencv_photo300d.lib opencv_reg300d.lib opencv_rgbd300d.lib opencv_saliency300d.lib opencv_shape300d.lib opencv_stitching300d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Deteccion_Conteo_Personas_Escenas_PUJ-1703\Recursos\TecnicasBarrido\BarridoBordes\Debug\BarridoBordes.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Deteccion_Conteo_Personas_Escenas_PUJ-1703\Recursos\TecnicasBarrido\BarridoBordes\Debug\BarridoBordes.lib" /MACHINE:X86 Debug\BarridoBordes.obj
+         BarridoBordes.vcxproj -> C:\Deteccion_Conteo_Personas_Escenas_PUJ-1703\Recursos\TecnicasBarrido\BarridoBordes\Debug\BarridoBordes.exe
+     1>Compilación del proyecto terminada "C:\Deteccion_Conteo_Personas_Escenas_PUJ-1703\Recursos\TecnicasBarrido\BarridoBordes\BarridoBordes.vcxproj" (Build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:02.65
